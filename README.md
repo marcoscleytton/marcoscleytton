@@ -44,7 +44,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="PANDAS"
     title="PANDAS" 
-    width="100px" 
+    width="90px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
 />
@@ -52,7 +52,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="NUMPY" 
     title="NUMPY"
-    width="100px" 
+    width="90px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
 />
@@ -66,76 +66,61 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
+    alt="Sckit-Learn"
+    title="Sckit-Learn" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
+    alt="Scipy"
+    title="Scipy" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
+    alt="Web Scrapping" 
+    title="Web Scrapping"
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/5/50/Web_Scraper_logo.svg" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Pacote Office"
+    title="Pacote Office" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
+    alt="Power BI" 
+    title="Power BI"
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="API" 
+    title="API"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/api-color-icon.png" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
+    alt="P&E" 
+    title="P&E"
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://e7.pngegg.com/pngimages/390/288/png-clipart-probability-theory-statistics-interconnexions-entre-la-theorie-des-probabilites-et-la-statistique-mathematics-mathematics-angle-text.png" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -164,24 +149,16 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marcoscleytton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscleytton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
-<br>
+<br clear="left"/>
 
-### 🧪 Projetos em Destaque
-
-- [📊 Teste A/B - Botões coloridos](https://github.com/marcoscleytton/Teste-AB-Botoes-Azul-vs-Verde)
-- [📈 Previsão de Preço de Pizza com Streamlit](https://github.com/marcoscleytton/projetos-streamlit)
-- [🧠 DIO Lab Open Source](https://github.com/marcoscleytton/dio-lab-open-source)
-
-</br>
