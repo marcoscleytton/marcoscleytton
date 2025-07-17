@@ -2,7 +2,7 @@
 
 **`Ciêntista de Dados`**
 
-Me chamo Marcos, tenho 31 anos e sou natural de São Paulo. Concluí o bacharelado em administração. Atualmente, estou cursando ciência de dados na [Faculdade Descomplica Digital](https://descomplica.com.br/pos-graduacao/tecnologia/pos-online-em-data-science/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_top5-cursos&utm_term=p%C3%B3s%20ciencia%20de%20dados&utm_content=destino-curso-tecnologia-data-science&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgKRXpky_uwmT3PLSSUxjuQUP1FfTBJIKaZ5e3RyvpMtQS2UuTTPgjRoCqZ4QAvD_BwE). Sou apaixonado por tecnologia
+Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em administração. Atualmente estou cursando ciência de dados na [Faculdade Descomplica Digital](https://descomplica.com.br/pos-graduacao/tecnologia/pos-online-em-data-science/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_top5-cursos&utm_term=p%C3%B3s%20ciencia%20de%20dados&utm_content=destino-curso-tecnologia-data-science&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgKRXpky_uwmT3PLSSUxjuQUP1FfTBJIKaZ5e3RyvpMtQS2UuTTPgjRoCqZ4QAvD_BwE). Sou apaixonado por tecnologia
 e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Construção](https://www.youtube.com/@MarcosCLisboa)", onde crio projetos de dados.
 
 <p align="left">
@@ -44,7 +44,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="PANDAS"
     title="PANDAS" 
-    width="90px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
 />
@@ -52,7 +52,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="NUMPY" 
     title="NUMPY"
-    width="90px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
 />
@@ -60,7 +60,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="MATPLOTLIB" 
     title="MATPLOTLIB"
-    width="90px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/idbyoKq4tZ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1748825964012" 
 />
