@@ -149,7 +149,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcoscleytton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marcoscleytton&theme=tokyonight" 
   />
 
   <img 
