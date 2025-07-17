@@ -60,7 +60,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="MATPLOTLIB" 
     title="MATPLOTLIB"
-    width="100px" 
+    width="90px" 
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/idbyoKq4tZ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1748825964012" 
 />
@@ -68,7 +68,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="Sckit-Learn"
     title="Sckit-Learn" 
-    width="50px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
 />
@@ -156,7 +156,7 @@ e dados, compartilho meu conhecimento através do meu canal no YouTube [Em Const
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscleytton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscleytton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
   />
 </p>
 
