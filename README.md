@@ -139,25 +139,3 @@ Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em a
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcoscleytton&theme=tokyonight" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscleytton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" 
-  />
-</p>
-
-<br clear="left"/>
-
