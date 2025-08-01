@@ -37,7 +37,7 @@ Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em a
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Bibliotecas
 
 <img 
     align="left" 
