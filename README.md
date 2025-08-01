@@ -12,8 +12,8 @@ Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em a
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQVWRtDvBbkbjKoBevpFbQA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/marcoscleytton?tab=repositories">
-        <img  
+     <a href="https://github.com/marcoscleytton?tab=repositories">
+                <img  
             title="Meu reposiorio no gitHub" 
             width="30px" 
             style="padding-right: 10px;" 
@@ -25,7 +25,7 @@ Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em a
 
 ---
 
-### 🤖 Linguagens e Bibliotecas
+### 🤖 Linguagen e Bibliotecas
 
 <img 
     align="left" 
@@ -108,14 +108,6 @@ Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em a
     src="https://e7.pngegg.com/pngimages/390/288/png-clipart-probability-theory-statistics-interconnexions-entre-la-theorie-des-probabilites-et-la-statistique-mathematics-mathematics-angle-text.png" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
