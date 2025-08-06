@@ -4,7 +4,7 @@
 
 Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em administração. Atualmente estou cursando ciência de dados na [Faculdade Descomplica Digital](https://descomplica.com.br/pos-graduacao/tecnologia/pos-online-em-data-science/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_top5-cursos&utm_term=p%C3%B3s%20ciencia%20de%20dados&utm_content=destino-curso-tecnologia-data-science&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgKRXpky_uwmT3PLSSUxjuQUP1FfTBJIKaZ5e3RyvpMtQS2UuTTPgjRoCqZ4QAvD_BwE).
 
-<p>/p>
+<p>
      <a href="https://github.com/marcoscleytton?tab=repositories">
                 <img  
             title="Meu reposiorio no gitHub" 
