@@ -1,10 +1,14 @@
 
 <h1 align="center">Ola Bem vindo </h1>
-<h3 align="center">Marcos Lisboa | 👨‍💻 Data Scientist </h3>
+<h3 align="center"> 👨‍💻 Data Scientist </h3>
 
 ## Sobre mim:
+E aí, tudo certo?
 
-Olá,  chamo Marcos, tenho 31 anos e sou natural de São Paulo. Bacharelado em administração. Atualmente estou cursando ciência de dados na [Faculdade Descomplica Digital](https://descomplica.com.br/pos-graduacao/tecnologia/pos-online-em-data-science/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_top5-cursos&utm_term=p%C3%B3s%20ciencia%20de%20dados&utm_content=destino-curso-tecnologia-data-science&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgKRXpky_uwmT3PLSSUxjuQUP1FfTBJIKaZ5e3RyvpMtQS2UuTTPgjRoCqZ4QAvD_BwE).
+👋 Eu sou o Marcos Lisboa — apaixonado por dados e movido por descobertas. Saí da Administração pra mergulhar no universo da Ciência de Dados, onde cada dataset é uma nova história esperando pra ser contada. 
+
+Aqui no meu GitHub você vai encontrar projetos hands-on com Python, SQL, estatística, machine learning e visualizações que contam histórias. Cada repositório é um episódio da minha jornada — da limpeza de dados ao modelo preditivo, sempre com foco em aplicações reais.
+Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil é pra você. 🚀
 
 
 <p  align="center">
