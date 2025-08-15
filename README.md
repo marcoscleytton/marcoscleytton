@@ -1,7 +1,6 @@
 
 <h1 align="center">Ola Bem vindo </h1>
-<h3 align="center">Marcos Lisboa </h3>
-<h3 align="center">👨‍💻 Data Scientist </h3>
+<h3 align="center">Marcos Lisboa | 👨‍💻 Data Scientist </h3>
 
 ## Sobre mim:
 
