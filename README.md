@@ -19,7 +19,6 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/marcosclisboa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marcoscleytton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffff" height="30" width="40" /></a>
 
 <!--Email-->
 <p align="center">
