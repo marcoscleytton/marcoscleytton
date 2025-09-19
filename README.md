@@ -10,15 +10,19 @@ E aí, tudo certo?
 Aqui no meu GitHub você vai encontrar projetos hands-on com Python, SQL, estatística, machine learning e visualizações que contam histórias. Cada repositório é um episódio da minha jornada — da limpeza de dados ao modelo preditivo, sempre com foco em aplicações reais.
 Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil é pra você. 🚀
 
-
+    
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 <!--Contatos-->
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/marcosclisboa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcosclisboa/" target="blank" title="Meu Linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="40" width="40" /></a>
+<a href="https://github.com/marcoscleytton?tab=repositories" target="_blank" title="Repositório GitHub">
+  <img align="center" src="https://www.svgrepo.com/show/374306/git-opened.svg" alt="GitHub" height="50" width="50" />
+</a>
 
 <!--Email-->
 <p align="center">
@@ -27,19 +31,9 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+          
 
-<table align= "center">
-    <td align="center"  width="140" height="112.43">
-      <a href="https://github.com/marcoscleytton?tab=repositories">
-        <img src="https://www.svgrepo.com/show/374306/git-opened.svg" width="48" height="48" alt="Repositorio" />
-      </a>
-      <br>Repositorio
-    </td>
-            
 
-  </tr>
-</table>
-</br>
 
 <h5 align="center">Programming Languages</h5>
 
@@ -58,7 +52,7 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h5 align="center">DV</h5>
+<h5 align="center" title="Dashboards">DV </h5>
 
 <table align= "center">
   <tr>
@@ -81,7 +75,7 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
-<h5 align="center">AI/ML</h5>
+<h5 align="center" title="Bibliotecas">AI/ML</h5>
 
 <table align= "center">
   <tr>
@@ -122,7 +116,7 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h5 align="center">Database</h5>
+<h5 align="center"title="Banco de Dados">Database</h5>
 
 
 <table align= "center">
