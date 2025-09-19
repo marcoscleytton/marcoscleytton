@@ -31,7 +31,7 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <table align= "center">
     <td align="center"  width="140" height="112.43">
       <a href="https://github.com/marcoscleytton?tab=repositories">
-        <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="48" height="48" alt="Repositorio" />
+        <img src="https://www.svgrepo.com/show/374306/git-opened.svg" width="48" height="48" alt="Repositorio" />
       </a>
       <br>Repositorio
     </td>
