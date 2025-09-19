@@ -111,7 +111,7 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="https://numpy.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="78" height="78" alt="Data Studio" />
+        <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="78" height="78" alt="Data Studio" />
       </a>
       <br>Numpy
     </td>
