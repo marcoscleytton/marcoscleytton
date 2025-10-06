@@ -3,7 +3,6 @@
 <h3 align="center"> 👨‍💻 Data Scientist </h3>
 
 ## Sobre mim:
-E aí, tudo certo?
 
 Apaixonado por dados e movido por descobertas. Saí da Administração pra mergulhar no universo da Ciência de Dados, onde cada dataset é uma nova história esperando pra ser contada. 
 
