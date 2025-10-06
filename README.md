@@ -5,16 +5,12 @@
 ## Sobre mim:
 E aí, tudo certo?
 
-👋 Eu sou o Marcos Lisboa — apaixonado por dados e movido por descobertas. Saí da Administração pra mergulhar no universo da Ciência de Dados, onde cada dataset é uma nova história esperando pra ser contada. 
+Apaixonado por dados e movido por descobertas. Saí da Administração pra mergulhar no universo da Ciência de Dados, onde cada dataset é uma nova história esperando pra ser contada. 
 
 Aqui no meu GitHub você vai encontrar projetos hands-on com Python, SQL, estatística, machine learning e visualizações que contam histórias. Cada repositório é um episódio da minha jornada — da limpeza de dados ao modelo preditivo, sempre com foco em aplicações reais.
 Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil é pra você. 🚀
 
     
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
 
 <!--Contatos-->
 <h3 align="center">Conecte-se comigo:</h3>
