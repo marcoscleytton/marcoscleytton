@@ -140,27 +140,6 @@ Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h5 align="center">Devops</h5>
-
-<table align= "center">
-  <tr>
-     <td align="center" width="190" height="112.43">
-      <a href="https://aws.amazon.com" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center"  width="190" height="112.43">
-      <a href="https://cloud.google.com">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="gcp" />
-      </a>
-      <br>GCP
-    </td>
-  
-
-  </tr>
-</table>
-</br>
 
 <!--Git Stats-->
 <p  align="center">
