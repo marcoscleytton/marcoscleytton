@@ -6,8 +6,8 @@
 
 Apaixonado por dados e movido por descobertas. Saí da Administração pra mergulhar no universo da Ciência de Dados, onde cada dataset é uma nova história esperando pra ser contada. 
 
-Aqui no meu GitHub você vai encontrar projetos hands-on com Python, SQL, estatística, machine learning e visualizações que contam histórias. Cada repositório é um episódio da minha jornada — da limpeza de dados ao modelo preditivo, sempre com foco em aplicações reais.
-Se você curte dados, tecnologia e aprendizado contínuo com estilo, esse perfil é pra você. 🚀
+Este repositório reúne estudos técnicos, laboratórios de experimentação e protótipos analíticos desenvolvidos ao longo da minha trajetória em dados. Exploro algoritmos, modelagem estatística e machine learning aplicados a diferentes contextos, sempre estruturando hipóteses, validações e métricas de desempenho.
+Cada projeto representa um ciclo completo de análise e da preparação dos dados à avaliação crítica do modelo  com foco em evolução técnica e aplicação prática. 🚀
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
