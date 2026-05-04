@@ -11,7 +11,7 @@ Cada projeto representa um ciclo completo de análise e da preparação dos dado
   <img src="https://e7.pngegg.com/pngimages/619/421/png-clipart-computer-icons-career-portfolio-symbol-portfolio-miscellaneous-rectangle.png" 
        alt="Portfólio" 
        width="20" 
-       height="25">
+       height="20">
 </a>
 
 # 💻 Tech Stack:
