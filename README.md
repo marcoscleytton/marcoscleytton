@@ -8,7 +8,7 @@ Cada projeto representa um ciclo completo de análise e da preparação dos dado
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//marcoscleytton) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoscleyttonlisboa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcoscleytton) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MarcosOlissipo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcoscleytton@gmail.com) <a href="https://marcoscleytton.github.io/portifolio/" target="_blank">
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/47133259-d1f8-455d-8a5f-4bd1285ced7b" />" 
+  <img src="<https://github.com/user-attachments/assets/47133259-d1f8-455d-8a5f-4bd1285ced7b"/>" 
        alt="Portfólio" 
        width="15" 
        height="15">
