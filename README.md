@@ -7,12 +7,8 @@ Este repositório reúne estudos técnicos, laboratórios de experimentação e 
 Cada projeto representa um ciclo completo de análise e da preparação dos dados à avaliação crítica do modelo  com foco em evolução técnica e aplicação prática. 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//marcoscleytton) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoscleyttonlisboa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcoscleytton) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MarcosOlissipo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcoscleytton@gmail.com) <a href="https://marcoscleytton.github.io/portifolio/" target="_blank">
-  <img src="https://www.flaticon.com/free-icon/record_16444609?term=folder+portifolio&page=1&position=2&origin=search&related_id=16444609" 
-       alt="Portfólio" 
-       width="20" 
-       height="20">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//marcoscleytton) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoscleyttonlisboa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcoscleytton) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MarcosOlissipo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcoscleytton@gmail.com) [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?logo=firefox&logoColor=white)](https://marcoscleytton.github.io/portifolio/)
+
 
 
 # 💻 Tech Stack:
